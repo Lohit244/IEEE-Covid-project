@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/covid/static/css/main.0239a6d4.chunk.css",
-    "main.js": "/covid/static/js/main.86a6a379.chunk.js",
-    "main.js.map": "/covid/static/js/main.86a6a379.chunk.js.map",
-    "runtime-main.js": "/covid/static/js/runtime-main.d3580c2b.js",
-    "runtime-main.js.map": "/covid/static/js/runtime-main.d3580c2b.js.map",
-    "static/css/2.4c97ca4f.chunk.css": "/covid/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.b46ada16.chunk.js": "/covid/static/js/2.b46ada16.chunk.js",
-    "static/js/2.b46ada16.chunk.js.map": "/covid/static/js/2.b46ada16.chunk.js.map",
-    "static/js/3.20d06fde.chunk.js": "/covid/static/js/3.20d06fde.chunk.js",
-    "static/js/3.20d06fde.chunk.js.map": "/covid/static/js/3.20d06fde.chunk.js.map",
-    "index.html": "/covid/index.html",
-    "static/css/2.4c97ca4f.chunk.css.map": "/covid/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.0239a6d4.chunk.css.map": "/covid/static/css/main.0239a6d4.chunk.css.map",
-    "static/js/2.b46ada16.chunk.js.LICENSE.txt": "/covid/static/js/2.b46ada16.chunk.js.LICENSE.txt"
+    "main.css": "/IEEE-Covid-project/static/css/main.80424627.chunk.css",
+    "main.js": "/IEEE-Covid-project/static/js/main.0f4419bc.chunk.js",
+    "main.js.map": "/IEEE-Covid-project/static/js/main.0f4419bc.chunk.js.map",
+    "runtime-main.js": "/IEEE-Covid-project/static/js/runtime-main.4942589f.js",
+    "runtime-main.js.map": "/IEEE-Covid-project/static/js/runtime-main.4942589f.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/IEEE-Covid-project/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.fd32298b.chunk.js": "/IEEE-Covid-project/static/js/2.fd32298b.chunk.js",
+    "static/js/2.fd32298b.chunk.js.map": "/IEEE-Covid-project/static/js/2.fd32298b.chunk.js.map",
+    "static/js/3.c03376c0.chunk.js": "/IEEE-Covid-project/static/js/3.c03376c0.chunk.js",
+    "static/js/3.c03376c0.chunk.js.map": "/IEEE-Covid-project/static/js/3.c03376c0.chunk.js.map",
+    "index.html": "/IEEE-Covid-project/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/IEEE-Covid-project/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.80424627.chunk.css.map": "/IEEE-Covid-project/static/css/main.80424627.chunk.css.map",
+    "static/js/2.fd32298b.chunk.js.LICENSE.txt": "/IEEE-Covid-project/static/js/2.fd32298b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d3580c2b.js",
+    "static/js/runtime-main.4942589f.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.b46ada16.chunk.js",
-    "static/css/main.0239a6d4.chunk.css",
-    "static/js/main.86a6a379.chunk.js"
+    "static/js/2.fd32298b.chunk.js",
+    "static/css/main.80424627.chunk.css",
+    "static/js/main.0f4419bc.chunk.js"
   ]
 }
