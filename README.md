@@ -2,7 +2,7 @@ This is a project created during ieee lead 2.0 at BIT Mesra
 ## Features - 
 + Track current cases fetched directly from [this api](https://github.com/javieraviles/covidAPI) for world data and [this api](https://apify.com/covid-19) for india data
 + Search by region
-+ Monitor area severity(by rate of infection)
++ Monitor area severity(by mortality rate or Δ Cases)
 ## Technologies used - 
 + Javascript
 + ReactJS

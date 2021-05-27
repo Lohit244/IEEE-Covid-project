@@ -53,7 +53,7 @@ function Landing() {
                 <Col md={6}>
                     <h1> {location}</h1>
                     <h6>Total : {data.cases}</h6>
-                    <h6> New Cases Today: {data.todayCases}</h6>
+                    <h6> New Cases: {data.todayCases}</h6>
                     <h6> Deaths: {data.deaths}</h6>
                     <h6> Critical: {data.critical}</h6>
                     <h6> Recovered : {data.recovered}</h6>
