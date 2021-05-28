@@ -12,6 +12,7 @@ This is a project created during ieee lead 2.0 at BIT Mesra
 ## Problems encountered - 
 + Multiple layout issues that i just fixed by using bootstrap
 + Api selection for state data.. most APIs delivered inconsistent data and some some had quite old data..
++ UAE, UK and DRC had their full names returned in mapbox.. last minute fix
 ## What i learned
 + I learnt how to interact with APIs
 + Also learnt to use bootstrap (can be extended to other css libraries) to a good degree...

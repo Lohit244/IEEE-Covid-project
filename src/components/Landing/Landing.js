@@ -17,7 +17,23 @@ function Landing() {
                 .then(res => res.json())
                 .then(
                                 (result) => {
-                                    setLocation(result.features[4].place_name)
+                                    var countryIndex = 0;
+                                    for(var i = 0;i<result.features.length;i++){
+                                        if(result.features[i].id.includes("country")){
+                                            countryIndex = i;
+                                        }
+                                    }
+                                    var TempName = result.features[countryIndex].place_name
+                                    if (TempName==="United Kingdom"){
+                                        TempName = "UK";
+                                    }
+                                    if (TempName==="United Arab Emirates"){
+                                        TempName = "UAE";
+                                    }
+                                    if (TempName==="Democratic Republic of Congo"){
+                                        TempName = "DRC";
+                                    }
+                                    setLocation(TempName);
                                 },
                     )
                 fetch("https://coronavirus-19-api.herokuapp.com/countries/" + location)
