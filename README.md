@@ -6,8 +6,8 @@ This Is A Project Created During IEEE Lead 2.0 At BIT Mesra
 + Fetching data of any country/state entered by user
 + Additional: Use retrieved data to display dynamic content and display alerts
 ```
-![image](https://user-images.githubusercontent.com/44966242/120068818-51867a00-c0a0-11eb-8e83-3466c4a160f4.png)
-![image](https://user-images.githubusercontent.com/44966242/120068923-c6f24a80-c0a0-11eb-8875-aa255097e714.png)
+![image](https://user-images.githubusercontent.com/44966242/120069336-189bd480-c0a3-11eb-8722-bb01257a9ce2.png)
+![image](https://user-images.githubusercontent.com/44966242/120069344-281b1d80-c0a3-11eb-8375-cdad89e6b697.png)
 ## Technologies used - 
 + [This API](https://github.com/javieraviles/covidAPI) for world data and [This API](https://apify.com/covid-19) for india data
 + Javascript
