@@ -50,6 +50,7 @@ function Data(props) {
                         <tr>
                               <th>Country</th>
                               <th>Cases</th>
+                              <th>Active</th>
                               <th>Deaths</th>
                               <th>New Cases</th>
                               <th>New Deaths</th>
@@ -65,6 +66,7 @@ function Data(props) {
                                           <tr className="Data-Elem" key={index}>
                                                 <td className="country">{cur.country}</td>
                                                 <td className="cases"> {cur.cases}</td>
+                                                <td className= "active-cases">{cur.active}</td>
                                                 <td className="deaths text-danger">{cur.deaths}</td>
                                                 <td className="todayCases">{cur.todayCases}</td>
                                                 <td className="todayDeaths text-danger" >{cur.todayDeaths}</td>
@@ -92,6 +94,7 @@ function Data(props) {
                         <tr>
                               <th>State</th>
                               <th>Cases</th>
+                              <th>Active</th>
                               <th>Deaths</th>
                               <th>Change In Cases</th>
                               <th>New Deaths</th>
@@ -107,6 +110,7 @@ function Data(props) {
                                           <tr className="Data-Elem" key={index}>
                                                 <td className="country">{cur.region}</td>
                                                 <td className="cases"> {cur.totalInfected}</td>
+                                                <td className="active-cases">{cur.activeCases}</td>
                                                 <td className="deaths text-danger">{cur.deceased}</td>
                                                 <td className="todayCases">{cur.newInfected}</td>
                                                 <td className="todayDeaths text-danger" >{cur.newDeceased}</td>
